@@ -20,12 +20,10 @@ cada uno de los servicios sera una instancia de EC2 de Amazon Web Services
 - Spark java
 - [Maven](https://maven.apache.org/) - Dependency Management
 Se crearon 5 instancias de ec2 en amazon web services y las tres intancias del log services  y al balanceador de cargas se les instalo java, luego se subio el codiogo de java que se ibaa correr y se empezo a correr el servicio
-- ![image](https://user-images.githubusercontent.com/98104282/224523652-5d65bdb1-9de3-4d39-bdfa-93de54c5d302.png)
-- ![image](https://user-images.githubusercontent.com/98104282/224523658-125e6645-085d-4c3b-b064-f6151bc150ae.png)
-- ![image](https://user-images.githubusercontent.com/98104282/224523666-9f255215-e447-4c1e-ab37-f6cc08539b45.png)
 
-- Aqui esta la consola del balanceador de carga imprimiendo a cual servido se le delego la peticion de los logs
-- ![image](https://user-images.githubusercontent.com/98104282/224523809-68f47d39-3d53-46d5-8b85-6a4a5c773c04.png)
+
+### Video Demo
+- https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/videos645/Eecq6jkLh0NMmxno5MaAiZoBu9La-EkEBXJYNYA1ioMAnA?e=yASixr
 
 
 
